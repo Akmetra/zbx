@@ -4,6 +4,8 @@ Zabbix Scripts and snippets
 A few useful scripts that I've collected / written. Zabbix queries for clients.
 
 <B>Disk S.M.A.R.T. Utilities</B>
+
+
 Discovers SMART-compatible disks, creates items and triggers for them.
 
 <I>Requirements:</I>
